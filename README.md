@@ -1,7 +1,7 @@
 estimation-at-the-extreme
 =========================
 
-Source code of experimental results of network size and average degree estimation of online social networks at the extreme
+Source code and necessary files to reproduce the experimental results of the paper : **Estimating the Size and Average Degree of Online Social Networks at the Extreme** which proposes network size and average degree estimators for online social networks under a limited data access model, which we call random neighbor access (RNA) model.
 
 Requirements
 =========================
