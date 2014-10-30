@@ -26,7 +26,11 @@ For the tutorial on using IPython for parallel computing see [this](http://ipyth
 --------------
 In this section, the abstract of the study is provided. It has nothing to do with the experimental sections; therefore, you do not need to run it.
 
-#####Initialize the Clients
+###0.Initialize
+-------------------------
+This section is about the initialization of engines and local machine.
+
+#####Initialize the Engines
 ----------------------
 This cell prints out the process ids of engines in the cluster and more importantly imports the necessary libraries on engines. If you get an error on this cell, make sure that libraries are installed on the engines.
 
@@ -66,7 +70,7 @@ This cell runs the experiments for network size estimation. You can play with th
 --------------------------------------------------
 This cell plots the results for network size estimation.
 
-###1.Average degree estimator
+###2.Average degree estimator
 ----------------------------------------------
 This section is about the GEN (generalized estimator) and GEN-AD(generalized estimator for average degree) estimator.
 
@@ -81,7 +85,7 @@ This cell runs the experiments for average degree estimation. You can play with 
 --------------------------------------------------
 This cell plots the results for average degree estimation.
 
-###Vertex degree estimation
+###3.Vertex degree estimation
 ---------------------------
 This section is about the estimation of local vertex degrees.
 
