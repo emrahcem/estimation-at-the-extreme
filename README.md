@@ -3,7 +3,7 @@ estimation-at-the-extreme
 
 Source code and necessary files to reproduce the experimental results of the paper : **Estimating the Size and Average Degree of Online Social Networks at the Extreme**, which proposes network size and average degree estimators for online social networks under a limited data access model, which we call random neighbor access (RNA) model.
 
-Requirements
+Requirements to run the source code (Experiments_final.ipynb)
 =========================
 * python 2.7
 * ipython (>= 2.0.0)
@@ -17,7 +17,7 @@ Requirements
 I suggest installing anaconda which is a completely free Python distribution. It includes 195+ of the most popular Python packages for science, math, engineering, data analysis.
 Anaconda will install all required pacakages except ipython-notebook. You should install it seperately.
 
-I assume that user has an experience on parallel computing with IPython. In order to run the source code the cluster should be up and ready; otherwise, you will get the following error "Ooops! Did you forget to start the cluster?".
+I assume that user has an experience on parallel computing with IPython as well as using ipython notebook. In order to run the source code the cluster should be up and ready; otherwise, you will get the following error "Ooops! Did you forget to start the cluster?".
 For the tutorial on using IPython for parallel computing see [this](http://ipython.org/ipython-doc/dev/parallel).
 
 Sections
