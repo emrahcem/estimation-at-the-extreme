@@ -20,7 +20,7 @@ Anaconda will install all required pacakages except ipython-notebook. You should
 I assume that user has an experience on parallel computing with IPython as well as using ipython notebook. In order to run the source code the cluster should be up and ready; otherwise, you will get the following error "Ooops! Did you forget to start the cluster?".
 For the tutorial on using IPython for parallel computing see [this](http://ipython.org/ipython-doc/dev/parallel).
 
-###Sections of Experiments_final.ipynb
+###Sections of source code (Experiments_final.ipynb)
 =========================
 #####Estimating the Size and Average Degree of Online Social Networks at the Extreme
 --------------
